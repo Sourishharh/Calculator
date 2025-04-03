@@ -38,6 +38,7 @@ input{
     text-align: right;
     cursor: pointer;
     outline: none;
+    color: white;
 }
 
 input::placeholder{
